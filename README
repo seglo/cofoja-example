@@ -1,0 +1,2 @@
+This project illustrates a minimal pom.xml that is able to instrument
+both Maven and Eclipse with proper settings so cofoja can actually work.
