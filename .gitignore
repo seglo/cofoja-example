@@ -6,3 +6,7 @@ target
 .pmd
 .factorypath
 .project
+# IntelliJ project file exceptions (https://www.jetbrains.com/idea/help/synchronizing-and-sharing-settings.html)
+.idea/libraries
+.idea/workspace.xml
+.idea/tasks.xml

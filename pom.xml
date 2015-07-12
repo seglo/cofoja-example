@@ -84,7 +84,7 @@
               <arg>-Acom.google.java.contract.classpath=${io.konverge:cofoja:jar}</arg>
               <arg>-Acom.google.java.contract.sourcepath=${basedir}/src/main/java</arg>
             </compilerArgs>
-            <compilerArgument>-Acom.google.java.contract.classoutput=${basedir}/target/classes" "-Acom.google.java.contract.classpath=${io.konverge:cofoja:jar}" "-Acom.google.java.contract.sourcepath=${basedir}/src/main/java</compilerArgument>
+            <!--<compilerArgument>-Acom.google.java.contract.classoutput=${basedir}/target/classes" "-Acom.google.java.contract.classpath=${io.konverge:cofoja:jar}" "-Acom.google.java.contract.sourcepath=${basedir}/src/main/java</compilerArgument>-->
           </configuration>
         </plugin>
         <plugin>
